@@ -1,8 +1,9 @@
+## 安装使用说明（在VScode中）
+
 ### 1. 安装Latex编译环境
 
 - windows用户安装： texlive
 - mac用户安装：mactex
-
 
 
 ### 2. 安装vscode及其插件
