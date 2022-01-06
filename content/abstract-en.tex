@@ -1,0 +1,26 @@
+% !Mode:: "TeX:UTF-8"
+
+\begin{eabstract}
+	Syntactic parsing is one of the most important intermediate processes in sentence comprehension,
+	and probability estimation has always been a core problem in the parsing field.
+	However, in either deep learning (DL) era or pre-DL era, there exist very few works based on global probabilistic modeling, mainly due to the high complexity of tree-structure CRF (TreeCRF) inference.
+	This thesis proposes to apply TreeCRF to both dependency parsing and constituency parsing.
+	The key idea to solve the inefficiency issue is to batchify the inference algorithm for tree structures, and meanwhile avoid the complex Outside algorithm via back-propagation.
+	Currently, parsing models are greatly simplified, and it's a trend to adopt local loss for syntactic parsing.
+	In contrast, we propose a high-order extension to first-order models.
+	While high-order modeling further increases the algorithm complexity, we also try to apply mean field variational inference (MFVI) as an alternative to exact inference of TreeCRF method, which greatly improves the parsing efficiency.
+
+	\vskip 21bp
+	{\bf\zihao{-4} Key words: }
+	Syntactic Parsing,
+	Dependency Parsing,
+	Constituency Parsing,
+	TreeCRF,
+	Variational Inference
+\end{eabstract}
+
+\begin{flushright}
+	Written by Yu Zhang
+	
+	Supervised by Zhenghua Li
+\end{flushright}
