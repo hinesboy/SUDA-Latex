@@ -1,5 +1,6 @@
 ## 安装使用说明（在VScode中）
 > overleaf在线编译器加载长篇论文太慢，所以选择与overleaf用法接近的vscode latex插件
+> 借鉴了[yzhangcs](https://github.com/yzhangcs/master-thesis)师兄的大论文模版
 
 ### 1. 安装Latex编译环境
 
@@ -143,3 +144,4 @@
   
 
 *补充：以后有图和表，建议单独在根目录创建两个放图和表的文件夹*
+
