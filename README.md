@@ -95,11 +95,11 @@
 
 ### 4. 导入项目及编译
 
-- 使用vscode打开**模版目录《SUDA-大论文模版》**
+- 使用vscode打开SUDA-Latex文件夹
 
 - 使用 **Recipe: xelatex -> bibtex -> xelatex** 方式编译
 
-- 编译后可以选择在vscode中或者浏览器中实时展示（建议在浏览器中好用），都是实时编译
+- 编译成功后可以选择在vscode中或者浏览器中实时展示，都是实时编译
 
   ![CFCF8B72-9B55-42CE-9FB1-7D6FF62F56B8](./example.png)
 
