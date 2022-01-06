@@ -1,4 +1,5 @@
 ## 安装使用说明（在VScode中）
+> overleaf在线编译器加载太慢，尤其是毕业大论文这种长篇论文，所以选择与overleaf用法接近的vscode latex插件
 
 ### 1. 安装Latex编译环境
 
