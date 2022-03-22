@@ -84,7 +84,7 @@
 > 仅mac用户需要， window用户好像不需要
 
 以下7个字体安装包均在模版文件中，双击安装即可
-
+- simhei.ttf
 - simkai.ttf
 - simsun.ttc
 - stxingkai.ttf
