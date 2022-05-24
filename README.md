@@ -146,3 +146,9 @@
 
 *补充：以后有图和表，建议单独在根目录创建两个放图和表的文件夹*
 
+### 6. 参考文献规范化后处理
+> 因为有些从google学术等方式引用的参考文献仍为arxiv格式，并未更新到最新的会议格式，并且可能缺省了部分字段，
+> 所以当论文最终完成后，需要统一规范化一下论文的参考文献格式。
+
+ - 使用[rebiber](https://github.com/yuchenlin/rebiber)工具重新规范化自己的bib文件
+ - 将新的reference.bib文件里的publisher直接全局替换为organization
